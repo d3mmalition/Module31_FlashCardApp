@@ -1,6 +1,5 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
-
 function EditCardCancelButton({ deckId }) {
   const history = useHistory();
 
